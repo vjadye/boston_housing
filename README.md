@@ -1,4 +1,4 @@
-# boston_housing
+# boston housing
 Project for Udacity Machine Learning class
 
 ### Purpose
